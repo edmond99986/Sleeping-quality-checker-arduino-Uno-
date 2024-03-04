@@ -1,6 +1,6 @@
 <h1>Breadth-first search algorithm pratice</h1>
 
-### [YouTube Demonstration](https://www.youtube.com/watch?v=sJ1eJcJrhNw&ab_channel=AntonioWong)
+### [YouTube Demonstration](https://youtu.be/OmrObxuu60A)
 
 <h2>Description</h2>
 A data logging sleep quality recorder & automatic fan system . Achieved with a temperature detector , PIR sensor , z-axis accerlerometer and SD-card module<br/>
